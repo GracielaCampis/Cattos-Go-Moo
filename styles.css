@@ -1,0 +1,25 @@
+body { 
+    text-align: center;
+}
+#cat {
+display: none;
+}
+#meme {
+display: none;
+}
+#But {
+display: none;
+}
+#DiduKnow {
+display: none;
+}
+body {
+    text-align: center;
+    background: url("https://www.ppt-backgrounds.net/thumbs/blue-abstract-foam-bubbles-slides-background-backgrounds.jpg") no-repeat;
+    background-size: cover;
+    }
+h1 {
+     font-family: 'Coiny', cursive;
+     font-size: 45px;
+     color: white;
+}
